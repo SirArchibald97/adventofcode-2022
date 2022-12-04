@@ -1,4 +1,4 @@
-## Advent of Code 2022
+## 🎄 Advent of Code 2022
 - [X] Day 1
 - [X] Day 1
 - [X] Day 3
